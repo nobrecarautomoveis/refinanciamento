@@ -11,7 +11,7 @@ export default function FAQSection() {
     },
     {
       question: "Meu veículo não está quitado, é possível fazer o empréstimo com garantia de veículo?",
-      answer: "Sim, realizando a quitação do veículo, é necessário incluir o respectivo valor de quitação ao montante financiado."
+      answer: "Sim, você deve adicionar o valor da quitação do carro ao montante do financiamento."
     },
     {
       question: "O carro fica no meu nome?",
@@ -19,7 +19,7 @@ export default function FAQSection() {
     },
     {
       question: "Em quanto tempo recebo o dinheiro?",
-      answer: "Após aprovação, o crédito pode cair em até 24h úteis."
+      answer: "Após a assinatura do contrato, o crédito é liberado em até 24h."
     },
     {
       question: "A partir de qual ano o veículo é aceito?",
@@ -31,7 +31,7 @@ export default function FAQSection() {
     },
     {
       question: "Há custos antecipados?",
-      answer: "Não! Todo o processo é gratuito até a aprovação final."
+      answer: "Não! não cobramos nenhuma taxa ou seguro antecipadamente."
     }
   ];
 

@@ -20,7 +20,7 @@ export default function HowItWorksSection() {
     {
       icon: CreditCard,
       title: "Receba o dinheiro na conta",
-      description: "Liberação em até 24h após aprovação."
+      description: "Em até 24h após a assinatura do contrato."
     }
   ];
 

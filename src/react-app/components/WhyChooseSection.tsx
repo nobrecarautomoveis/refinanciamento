@@ -24,7 +24,7 @@ export default function WhyChooseSection() {
     },
     {
       name: "Ana Costa",
-      text: "Sem burocracia, sem consulta ao SPC. Tudo conforme prometido. Muito satisfeita!",
+      text: "Sem burocracia, e sem pegadinhas. Tudo conforme prometido. Muito satisfeita!",
       image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80"
     },
     {
@@ -64,13 +64,13 @@ export default function WhyChooseSection() {
     },
     {
       icon: Clock,
-      title: "Após aprovação, dinheiro rápido na conta",
-      description: "Liberação em até 24h úteis após a aprovação final"
+      title: "Após aprovação e assinatura do contrato",
+      description: "Você recebe o crédito em sua conta em até 24h"
     },
     {
       icon: FileX,
-      title: "Sem burocracia e sem consulta ao SPC/Serasa",
-      description: "Para simulação não consultamos órgãos de proteção"
+      title: "Sem burocracia e sem pagamento antecipado",
+      description: "Nada será cobrado até que sua proposta seja aprovada"
     },
     {
       icon: Car,
