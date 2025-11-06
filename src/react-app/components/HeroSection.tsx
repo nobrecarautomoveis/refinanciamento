@@ -1,13 +1,9 @@
-import { Shield, Volume2, VolumeX } from 'lucide-react';
+import { Volume2, VolumeX } from 'lucide-react';
 import { useState, useRef } from 'react';
 
 export default function HeroSection() {
   const [isMuted, setIsMuted] = useState(true);
   const videoRef = useRef<HTMLVideoElement>(null);
-
-  const handleSimulate = () => {
-    document.getElementById('simulator')?.scrollIntoView({ behavior: 'smooth' });
-  };
 
   const toggleMute = () => {
     if (videoRef.current) {

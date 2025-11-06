@@ -3,7 +3,6 @@ import { useState, useEffect, useRef } from 'react';
 export default function PartnersSection() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [itemsPerView, setItemsPerView] = useState(5);
-  const [isTransitioning, setIsTransitioning] = useState(true);
   const containerRef = useRef<HTMLDivElement>(null);
 
   const partners = [
