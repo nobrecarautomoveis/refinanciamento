@@ -69,8 +69,8 @@ export default function WhyChooseSection() {
     },
     {
       icon: FileX,
-      title: "Sem burocracia e sem pagamento antecipado",
-      description: "Nada será cobrado até que sua proposta seja aprovada"
+      title: "Sem burocracia e sem custos antecipados",
+      description: "Sem cobranças de taxas antecipadas ou seguro"
     },
     {
       icon: Car,
